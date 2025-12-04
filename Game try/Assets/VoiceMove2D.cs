@@ -34,7 +34,7 @@ public class VoiceMove2D : MonoBehaviour
 
     void Update()
     {
-        // Move the player in 2D
+       
         transform.Translate(direction * speed * Time.deltaTime);
     }
 }

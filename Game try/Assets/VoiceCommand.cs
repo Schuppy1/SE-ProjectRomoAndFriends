@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Windows.Speech;
 using System.Collections.Generic;
-using System.Linq; // <EAdd this so we can use .ToArray()
+using System.Linq; 
 
 public class VoiceCommand : MonoBehaviour
 {
