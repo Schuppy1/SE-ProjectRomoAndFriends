@@ -9,7 +9,7 @@ public class ModernControls : MonoBehaviour
 
     [Header("Movement Settings")]
     public float moveSpeed = 5f;  
-    public Animator anim;ssss
+    public Animator anim;
 
     private float horizontal = 0f;
     public int facingDirection = 1; // 1 = right, 0 = left
