@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/VoiceInput.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/MenuSprites/MainMenuUI.unity
+    guid: dfa00d8ec40e1a649943d099f33c4264
+  - enabled: 1
+    path: Assets/MenuSprites/Menu - ChooseControlMethod.unity
+    guid: 79af8b9903cecdb41b5a3cf79b304f0d
+  - enabled: 1
+    path: Assets/MenuSprites/Menu - HeropickVoice.unity
+    guid: a855e6d005548b14fab81df6cf5058bf
+  - enabled: 1
+    path: Assets/MenuSprites/Menu - HeropickButton.unity
+    guid: bb769c1a6eddc8641b0517bd622687da
+  - enabled: 1
+    path: Assets/ModernControls.unity
+    guid: 30d063ef12d242244a0245c2c27f02b2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

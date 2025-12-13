@@ -6,12 +6,12 @@ public class FireballSumonner : MonoBehaviour
     public GameObject fireBallPrefab;   // your fireball prefab
     public Transform spawnPoint;        // where fireball appears
 
-    public VoiceCommanV2 player; // reference to player (for facing direction)
+    public ModernControls player; // reference to player (for facing direction)
 
 
     private void Start()
     {
-        player = FindFirstObjectByType<VoiceCommanV2>();
+        player = FindFirstObjectByType<ModernControls>();
     }
 
     public void SummonFireball()

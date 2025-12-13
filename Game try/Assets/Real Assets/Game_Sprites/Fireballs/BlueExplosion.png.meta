@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: b3c797929aa52a047b9f2eeecba6f2dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7679866118613102261
+    second: BlueExplosion_0
+  - first:
+      213: 895932972804759386
+    second: BlueExplosion_1
+  - first:
+      213: 1841478659264400114
+    second: BlueExplosion_2
+  - first:
+      213: -7467354980479850591
+    second: BlueExplosion_3
+  - first:
+      213: 1835056182011327233
+    second: BlueExplosion_4
+  - first:
+      213: -4117900068779354494
+    second: BlueExplosion_5
+  - first:
+      213: -3228172089701536749
+    second: BlueExplosion_6
+  - first:
+      213: 6375126476861712192
+    second: BlueExplosion_7
+  - first:
+      213: -7701775417606439609
+    second: BlueExplosion_8
+  - first:
+      213: -1873211810731947868
+    second: BlueExplosion_9
+  - first:
+      213: 2632913539011241544
+    second: BlueExplosion_10
+  - first:
+      213: 9073821917189149856
+    second: BlueExplosion_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 84
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beed729b8d549a60800000000000000
+      internalID: 7679866118613102261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 60
+        width: 111
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f569aba4efe6c00800000000000000
+      internalID: 895932972804759386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 45
+        width: 156
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2facae2851f3e8910800000000000000
+      internalID: 1841478659264400114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 35
+        width: 167
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1037bafffdd677910800000000000000
+      internalID: 1835056182011327233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 38
+        width: 178
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c6287869a3333d0800000000000000
+      internalID: -3228172089701536749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 38
+        width: 178
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047a78bf0cff87850800000000000000
+      internalID: 6375126476861712192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 85008407e3b8f9c41ac17f15c0862498
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueExplosion_0: 7679866118613102261
+      BlueExplosion_1: 895932972804759386
+      BlueExplosion_10: 2632913539011241544
+      BlueExplosion_11: 9073821917189149856
+      BlueExplosion_2: 1841478659264400114
+      BlueExplosion_3: -7467354980479850591
+      BlueExplosion_4: 1835056182011327233
+      BlueExplosion_5: -4117900068779354494
+      BlueExplosion_6: -3228172089701536749
+      BlueExplosion_7: 6375126476861712192
+      BlueExplosion_8: -7701775417606439609
+      BlueExplosion_9: -1873211810731947868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
