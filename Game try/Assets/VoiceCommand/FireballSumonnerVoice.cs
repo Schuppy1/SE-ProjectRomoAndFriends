@@ -1,32 +1,33 @@
-using UnityEngine;
-using static UnityEditor.ShaderGraph.Internal.KeywordDependentCollection;
+﻿using UnityEngine;
 
 public class FireballSumonnerVoice : MonoBehaviour
 {
-    public GameObject fireBallPrefab;   // your fireball prefab
-    public Transform spawnPoint;        // where fireball appears
+    public GameObject fireBallPrefab;
+    public Transform spawnPoint;
 
-    public VoiceCommanV2 player; // reference to player (for facing direction)
+    // 🔧 CHANGE THIS TYPE
+    public TurnFighter player;
 
-
-    private void Start()
+public void SummonFireball()
+{
+    if (!fireBallPrefab || !spawnPoint || !player)
     {
-        player = FindFirstObjectByType<VoiceCommanV2>();
+        Debug.LogError("FireballSummonnerVoice: Missing references!");
+        return;
     }
 
-    public void SummonFireball()
+    GameObject fb = Instantiate(fireBallPrefab, spawnPoint.position, Quaternion.identity);
+    FireBall fbScript = fb.GetComponent<FireBall>();
+
+    if (!fbScript)
     {
-        // create fireball object
-        GameObject fb = Instantiate(fireBallPrefab, spawnPoint.position, Quaternion.identity);
-
-        // get fireball script and give it the direction
-        FireBall fbScript = fb.GetComponent<FireBall>();
-
-        // send direction based on player's facing
-
-        if (player.facingDirection == 1)
-            fbScript.direction = Vector2.right;
-        else
-            fbScript.direction = Vector2.left;
+        Debug.LogError("FireBall script missing on prefab!");
+        return;
     }
+
+    fbScript.direction = player.facingDirection == 1
+        ? Vector2.right
+        : Vector2.left;
+}
+
 }
