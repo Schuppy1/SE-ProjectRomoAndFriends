@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|d:\\good dragons\\se-projectromoandfriends\\game try\\assets\\menusprites\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|solutionrelative:assets\\menusprites\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\assets\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|solutionrelative:assets\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|d:\\good dragons\\se-projectromoandfriends\\game try\\assets\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\assets\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|solutionrelative:assets\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|d:\\good dragons\\se-projectromoandfriends\\game try\\assets\\hpmechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\assets\\hpmechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|solutionrelative:assets\\hpmechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\assets\\menusprites\\healthbarscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|solutionrelative:assets\\menusprites\\healthbarscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\assets\\menusprites\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFBA70E-D255-B33F-25DD-13C0BC9D8156}|Assembly-CSharp.csproj|solutionrelative:assets\\menusprites\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 407,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HealthBarUI.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\HealthBarUI.cs",
               "RelativeDocumentMoniker": "Assets\\HealthBarUI.cs",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "Assets\\HealthBarUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T15:42:24.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T15:42:24.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FireballSummonerVoice2.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\FireballSummonerVoice2.cs",
               "RelativeDocumentMoniker": "Assets\\FireballSummonerVoice2.cs",
@@ -99,20 +98,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TurnManager.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\TurnManager.cs",
               "RelativeDocumentMoniker": "Assets\\TurnManager.cs",
               "ToolTip": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\TurnManager.cs",
               "RelativeToolTip": "Assets\\TurnManager.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAIBJwCUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T14:06:31.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T14:06:31.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "VoiceCommanV2.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\VoiceCommand\\VoiceCommanV2.cs",
               "RelativeDocumentMoniker": "Assets\\VoiceCommand\\VoiceCommanV2.cs",
@@ -124,19 +122,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "sceneLoader.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\MenuSprites\\sceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\MenuSprites\\sceneLoader.cs",
               "ToolTip": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\MenuSprites\\sceneLoader.cs",
               "RelativeToolTip": "Assets\\MenuSprites\\sceneLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T02:43:57.491Z"
+              "WhenOpened": "2025-12-11T02:43:57.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ModernControlsArrowKeys.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\ModernControlsArrowKeys.cs",
               "RelativeDocumentMoniker": "Assets\\ModernControlsArrowKeys.cs",
@@ -148,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HPMechanics.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\HPMechanics.cs",
               "RelativeDocumentMoniker": "Assets\\HPMechanics.cs",
@@ -156,12 +155,11 @@
               "RelativeToolTip": "Assets\\HPMechanics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T17:55:24.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T17:55:24.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FireballSumonner.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\FireballSumonner.cs",
               "RelativeDocumentMoniker": "Assets\\FireballSumonner.cs",
@@ -173,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "punchDamage.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\punchDamage.cs",
               "RelativeDocumentMoniker": "Assets\\punchDamage.cs",
@@ -185,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "fireBallRed.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\fireBallRed.cs",
               "RelativeDocumentMoniker": "Assets\\fireBallRed.cs",
@@ -197,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CameraFollowZoom2D.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\CameraFollowZoom2D.cs",
               "RelativeDocumentMoniker": "Assets\\CameraFollowZoom2D.cs",
@@ -209,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FireballSumonnerVoice.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\VoiceCommand\\FireballSumonnerVoice.cs",
               "RelativeDocumentMoniker": "Assets\\VoiceCommand\\FireballSumonnerVoice.cs",
@@ -221,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TurnFighter.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\TurnFighter.cs",
               "RelativeDocumentMoniker": "Assets\\TurnFighter.cs",
@@ -233,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "HealthBarScript.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\MenuSprites\\HealthBarScript.cs",
               "RelativeDocumentMoniker": "Assets\\MenuSprites\\HealthBarScript.cs",
@@ -245,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "fireBallBlue.cs",
               "DocumentMoniker": "D:\\Good Dragons\\SE-ProjectRomoAndFriends\\Game try\\Assets\\fireBallBlue.cs",
               "RelativeDocumentMoniker": "Assets\\fireBallBlue.cs",
